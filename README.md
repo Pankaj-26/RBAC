@@ -110,7 +110,7 @@ The frontend will run on http://localhost:5173.
 
 # API Endpoints
 
-- ### Authentication Routes
+ ### Authentication Routes
 
 - #### POST /api/auth/signup: Create a new user
 
@@ -131,7 +131,7 @@ Request body:
 
 
 
-##### - POST /api/auth/login: Login to get a JWT token
+- ##### POST /api/auth/login: Login to get a JWT token
 
 Request body:
 
@@ -146,11 +146,11 @@ Request body:
 
 
 
-####Post Routes (for Admin and User)
+#### Post Routes (for Admin and User)
 
-##### - GET /api/blog/: Get all blog posts
+- ##### GET /api/blog/: Get all blog posts
 
-##### - POST /api/blog/create: Create a new blog post (Admin only)
+- ##### POST /api/blog/create: Create a new blog post (Admin only)
 
 Request body:
 
@@ -163,7 +163,7 @@ Request body:
 }
 
 
-##### - PUT /api/blog/update/:id: Update a blog post (Admin only)
+- ##### PUT /api/blog/update/:id: Update a blog post (Admin only)
 
 Request body:
 
@@ -175,7 +175,7 @@ Request body:
   
 }
 
-##### - DELETE /api/blog/delete/:id: Delete a blog post (Admin only)
+- ##### DELETE /api/blog/delete/:id: Delete a blog post (Admin only)
 
 
 
