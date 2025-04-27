@@ -19,6 +19,7 @@ export const AuthProvider = ({ children }) => {
         logout(); 
       }
     };
+ 
 
     if (token) {
       fetchUser();

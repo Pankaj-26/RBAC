@@ -5,9 +5,7 @@ const BlogPostCard = ({ posts, onDelete, onEdit }) => {
 
   const [loading, setLoading] = useState(true);
 
-
 console.log(posts)
-
 
 
   if (!posts && loading) {

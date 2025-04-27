@@ -6,10 +6,12 @@ import Dashboard from "./pages/Dashboard";
 import ProtectedRoute from "./routes/ProtectedRoute";
 import BlogList from "./pages/BlogList";
 import { AuthContext } from "./context/AuthContext";
+import Navbar from "./components/Navbar";
 function App() {
   const { user } = useContext(AuthContext);
   return (
     <div className="App">
+      <Navbar/>
       <Routes>
         <Route path="/" element={<BlogList />} />
         
