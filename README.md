@@ -94,7 +94,7 @@ The frontend will run on http://localhost:5173.
 
 
 
-### Usage
+# Usage
 
 - Once both the frontend and backend servers are running:
 
@@ -108,7 +108,7 @@ The frontend will run on http://localhost:5173.
 
 
 
-### API Endpoints
+# API Endpoints
 
 - Authentication Routes
 
@@ -179,7 +179,7 @@ Request body:
 
 
 
-### Acknowledgements
+# Acknowledgements
 
 - React: Frontend framework.
 
