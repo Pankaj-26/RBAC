@@ -67,7 +67,6 @@ npm start
 The frontend will run on http://localhost:5173.
 
 
-
 Usage
 Once both the frontend and backend servers are running:
 Sign up a new user (Admin or User) to get started.
