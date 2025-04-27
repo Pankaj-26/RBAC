@@ -110,9 +110,9 @@ The frontend will run on http://localhost:5173.
 
 # API Endpoints
 
-### - Authentication Routes
+- ### Authentication Routes
 
-#### - POST /api/auth/signup: Create a new user
+- #### POST /api/auth/signup: Create a new user
 
 Request body:
 
