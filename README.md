@@ -5,7 +5,7 @@
 This project is a Blog Platform built using React, Node.js, Express.js, and MongoDB. It implements Role-Based Access Control (RBAC), where users can create, read, update, and delete blog posts based on their roles. Admins have full control over the posts, while Users can only read posts. The platform also includes authentication using JWT (JSON Web Tokens).
 
 
-#Table of Contents
+# Table of Contents
 
 1.Installation
 
@@ -181,7 +181,7 @@ Request body:
 
 ### Acknowledgements
 
--React: Frontend framework.
+- React: Frontend framework.
 
 - Node.js: Backend runtime environment.
 
@@ -189,4 +189,4 @@ Request body:
 
 - MongoDB: Database for storing user data and blog posts.
 
-JWT: Authentication using JSON Web Tokens.
+- JWT: Authentication using JSON Web Tokens.
