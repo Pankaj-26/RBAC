@@ -20,7 +20,6 @@ Before running the application, ensure you have the following installed on your 
 Node.js (LTS version): Download and install Node.js
 MongoDB: Download and install MongoDB.
 
-
 Steps to Set Up Locally
 1. Clone the repository
 Clone this repository to your local machine:
